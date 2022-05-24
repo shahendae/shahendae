@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahenda Youssef</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **Chatbot using NLP**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
