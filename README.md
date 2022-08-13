@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shahenda Youssef</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Computer Vision**
 
 - 📫 How to reach me **syous071@uottawa.ca**
 
