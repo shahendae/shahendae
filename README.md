@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Shahenda Youssef</h1>
+<h2 align="center">Hi, I'm Shahenda Youssef</h2>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-<h5 align="center">I had the chance to work on multiple domains, and build Machine Learning, Deep Learning, NLP, and Computer Vision solutions to solve business problems.</h5>
+<h6 align="center">I had the chance to work on multiple domains, and build Machine Learning, Deep Learning, NLP, and Computer Vision solutions to solve business problems.</h6>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **syous071@uottawa.ca**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/shahenda-elsayed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahenda-elsayed/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/shahendayoussef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shahendayoussef" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
