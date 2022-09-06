@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shahenda Youssef</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-<h6 align="center">I had the chance to work on multiple domains, and build Machine Learning, Deep Learning, NLP, and Computer Vision solutions to solve business problems.</h6>
+<h5 align="center">I had the chance to work on multiple domains, and build Machine Learning, Deep Learning, NLP, and Computer Vision solutions to solve business problems.</h5>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
